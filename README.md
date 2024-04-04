@@ -2,7 +2,7 @@
 
 Nama : alfaza putra adjie ariefiansyah
 
-Nim : 312
+Nim : 312210512
 
 Kelas : TI.22.A5
 
